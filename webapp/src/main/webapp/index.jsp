@@ -7,7 +7,7 @@
   </head>
   <body>
     <div class="container">
-      <h1>Hi, Everyone✌️</h1>
+      <h1>Hi, Everyone🤞</h1>
       <p>
         Welcome to our project, in this project we will demo about CI/CD
         Pipeline using Jenkins
