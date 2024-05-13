@@ -16,7 +16,7 @@
     <div class="demo">
       <h1 id="demo-title">Let's get started!</h1>
       <ul>
-        <li>You can edit this!</li>
+        <li>Hallo</li>
         <li>You can edit this!</li>
         <li>You can edit this!</li>
         <li>You can edit this!</li>
