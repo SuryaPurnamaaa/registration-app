@@ -17,8 +17,8 @@
       <h1 id="demo-title">Let's get started!</h1>
       <ul>
         <li>Hallo</li>
-        <li>You can edit this!</li>
-        <li>You can edit this!</li>
+        <li>test!</li>
+        <li>tickle!</li>
         <li>You can edit this!</li>
         <li>You can edit this!</li>
         <li>You can edit this!</li>
