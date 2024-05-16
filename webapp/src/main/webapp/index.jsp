@@ -18,7 +18,7 @@
       <ul>
         <li>Hallo</li>
         <li>test!</li>
-        <li>TETEK!</li>
+        <li>TETEKK!</li>
         <li>You can edit this!</li>
         <li>You can edit this!</li>
         <li>You can edit this!</li>
